@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <displayName>AG Archipelago Mapscript</displayName>
+  <description>Modified Archipelago Mapscript</description>
+  <modpicture />
+  <author>amateurgamer88</author>
+  <modioID>0</modioID>
+  <modioFileID>0</modioFileID>
+  <modversion>v0.1</modversion>
+  <modbuild>1.0.66012</modbuild>
+  <tags>MapScript</tags>
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+  <scenario>false</scenario>
+  <scenarioToggle>false</scenarioToggle>
+  <blocksMods>false</blocksMods>
+  <modDependencies />
+  <modIncompatibilities />
+  <modWhitelist />
+  <gameContentRequired>NONE</gameContentRequired>
+</ModInfo>
